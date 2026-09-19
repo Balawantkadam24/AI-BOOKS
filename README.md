@@ -72,6 +72,9 @@ This collection is designed to make learning more accessible by organizing high-
 - Python developers exploring AI workflows
 - Learners studying LLMs and Generative AI
 - Builders working with AI agents and autonomous systems
+- AI Engineer
+- Agentic AI Engineer
+- Data scintist
 
 ## How to Use This Repository
 
