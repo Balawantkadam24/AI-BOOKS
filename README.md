@@ -109,11 +109,11 @@ AI-BOOKS/
 
 ## Notes
 
-All resources in this collection are shared for educational and learning purposes.
+All resources in this collection are free, open-source, and shared for educational and learning purposes.
 
-Please respect the original authors, publishers, and licensing terms associated with each resource.
+The materials are included from publicly available sources. Please respect the original authors, publishers, and the applicable licenses or sharing terms associated with each resource.
 
-If you are a copyright holder and believe a file is uploaded without proper permission, please contact the repository maintainer or open an issue for review.
+If you are a copyright holder and believe a resource has been included incorrectly or does not meet its applicable license terms, please contact the repository maintainer or open an issue for review.
 
 ## Support
 
