@@ -166,11 +166,6 @@ For redistribution, please follow the license and sharing terms provided by the 
 
 If you are a copyright holder and believe a file has been uploaded without appropriate permission, please contact the repository maintainer or open an issue for review.
 
-🤝 Contributions
-
-Useful open-access or legally shareable books, courses, cheat sheets, research resources, and AI-engineering guides are welcome.
-
-Please include a clear source/license where possible.
 
 ⭐ Support
 
